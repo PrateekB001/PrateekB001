@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Prateek Y Bhatt👋
 
-<!--
-**PrateekB001/PrateekB001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+💻 Java Full Stack learner  
 
-Here are some ideas to get you started:
+I am currently building a strong foundation in **Java Full Stack Development** with hands-on practice through academic and training-based projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Technologies
+- Core Java
+- SQL
+- HTML, CSS, JavaScript
+- Object-Oriented Programming
+- Basic backend concepts
+
+### 📚 What I'm Working On
+- Strengthening Core Java and OOP concepts  
+- Building small projects and uploading them to GitHub  
+- Learning backend development step by step  
+
+### 🎯 Goals
+- Gain practical industry exposure through internships  
+- Improve coding, problem-solving, and project development skills  
+
+📫 Feel free to connect with me on LinkedIn
